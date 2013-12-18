@@ -9,4 +9,5 @@ block content
               div.created_at= article.created_at
               div.title
                   a(href="/blog/"+article._id.toHexString())!= article.title
+                  //a(href="/blog/"+article._id)!= article.title // MEMORY OPTION: enable for memory based option to work
               div.body= article.body
