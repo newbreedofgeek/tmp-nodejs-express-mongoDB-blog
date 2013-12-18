@@ -1,6 +1,8 @@
 tmp-nodejs-express-mongoDB-blog
 ===============================
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/tmp-nodejs-express-mongodb-blog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 This is very good tutorial if you getting started with NodeJS, ExpressJS and MongoDB 
 - http://howtonode.org/express-mongodb
 
@@ -20,7 +22,3 @@ To run
 * run mongodb like so - 'mongod'
 * run your app like so - 'node app.js'
 * Go to localhost:3000 to see app working
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/tmp-nodejs-express-mongodb-blog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
