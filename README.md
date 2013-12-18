@@ -20,3 +20,7 @@ To run
 * run mongodb like so - 'mongod'
 * run your app like so - 'node app.js'
 * Go to localhost:3000 to see app working
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/tmp-nodejs-express-mongodb-blog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
