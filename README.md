@@ -3,7 +3,7 @@ tmp-nodejs-express-mongoDB-blog
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/tmp-nodejs-express-mongodb-blog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-This is very good tutorial if you getting started with NodeJS, ExpressJS and MongoDB 
+This is very good tutorial if you are getting started with NodeJS, ExpressJS and MongoDB 
 - http://howtonode.org/express-mongodb
 
 ONLY problem is that the article is really really old and the code does now work anymore.
