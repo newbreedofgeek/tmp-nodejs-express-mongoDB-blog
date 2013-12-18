@@ -18,7 +18,7 @@ To run
 ---
 * Clone the repo
 * You need node on your system (read the article above to see how to get all dependencies)
-* run 'node install' to get app dependencies
+* run 'npm install' to get app dependencies
 * run mongodb like so - 'mongod'
 * run your app like so - 'node app.js'
 * Go to localhost:3000 to see app working
