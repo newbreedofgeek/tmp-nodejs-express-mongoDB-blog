@@ -215,10 +215,10 @@ pip-log.txt
 #############
 ## Webstorm
 #############
-.idea/
+.idea
 
 #############
 ## NODEJS / GruntJS
 #############
-node_modules/
+node_modules
 
